@@ -1,0 +1,17 @@
+/* Target the dropdown menu background color */
+.dg .c select {
+    background-color: #333;
+  }
+  
+  /* Target the dropdown menu text color */
+  .dg .c select option {
+    color: #fff;
+  }
+ /* datguiStyles.css */
+.dg.ac {
+    position: absolute;
+    top: 420px; /* Change this value to adjust the top position */
+    
+  }
+  
+  

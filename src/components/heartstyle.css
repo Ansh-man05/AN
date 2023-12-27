@@ -1,0 +1,15 @@
+.heart-info-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20vw; /* Adjust the width as needed */
+  height: 100vh; /* Use viewport height to cover full screen height */
+  background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
+  padding: 20px; /* Padding for the text content */
+  overflow: auto; /* Enable scrolling if the content exceeds the container */
+}
+
+.heart-info-content {
+  max-width: 80%; /* Adjust the maximum width of the content */
+  margin: 0 auto; /* Center the content horizontally */
+}
